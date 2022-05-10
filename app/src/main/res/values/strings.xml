@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ManCitySquad</string>
+    <string name="heros_name">Nama Squad</string>
+    <string name="detail">detail</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+
+
+</resources>
